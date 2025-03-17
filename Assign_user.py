@@ -52,4 +52,6 @@ for r in range (10, matter_rows):
     WebDriverWait(driver,10).until(EC.visibility_of_element_located((By.XPATH,'/html/body/app-root/ser-management-portal/ser-main-app/mat-sidenav-container/mat-sidenav-content/div/main/ser-modules/mat-drawer-container/mat-drawer-content/div/mat-toolbar/div[2]/button'))).click()
     time.sleep(5)
 
+print("aditya is a tester")
+
 
