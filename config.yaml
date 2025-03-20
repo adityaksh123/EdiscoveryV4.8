@@ -1,0 +1,6 @@
+base_url: "https://qa.servient.net/ng/#/login"
+username: "automation2@servient.com"
+password: "Servient@1234"
+browser: "chrome"
+subscriber_name: "Tomcat 9"
+case_name: "15OctSmoke"
